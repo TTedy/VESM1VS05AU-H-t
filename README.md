@@ -19,9 +19,9 @@ verkefnið var um að búa till spill sem hermir eftir spilið Simon Says. við 
 
 # Ljósmyndir af lóðun (báðar hliðar).7
 
-[img](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/20220204_145158.jpg)
-[img](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/20220204_145212.jpg)
-[img](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/20220204_145225.jpg)
+[loðun](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/20220204_145158.jpg)
+[loðun](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/20220204_145212.jpg)
+[loðun](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/20220204_145225.jpg)
 
 # Tengil á myndband af virkni (spilun) lokafurðar.
 
@@ -29,7 +29,8 @@ verkefnið var um að búa till spill sem hermir eftir spilið Simon Says. við 
 
 # Ljósmyndir af lokaafurð (inní kassa og utan)
 
-[img](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/20220208_103504.jpg)
+[Inní](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/20220208_103504.jpg)
+[utan](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/20220208_122115%20(1).jpg)
 
 
 Þorvaldur Breki Lárruson
