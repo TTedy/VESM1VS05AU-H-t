@@ -19,9 +19,9 @@ verkefnið var um að búa till spill sem hermir eftir spilið Simon Says. við 
 
 # Ljósmyndir af lóðun (báðar hliðar).7
 
-[img](ljos-loð.jpg)
-[img](takki-loð1.jpg)
-[img](takki-loð2.jpg)
+[img](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/ljos-lo%C3%B0.jpg)
+[img](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/takki-lo%C3%B01.jpg)
+[img](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/takki-lo%C3%B02.jpg)
 
 # Tengil á myndband af virkni (spilun) lokafurðar.
 
