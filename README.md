@@ -7,11 +7,11 @@ verkefnið var um að búa till spill sem hermir eftir spilið Simon Says. við 
 
 # Hönnunarteikning.
 
-[svg](kassa-honnun.svg)
+[svg](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/kassa-honnun.svg)
 
 # Ljósmynd af samsetningu frumgerðar (brauðbretti, takkar, vírar o.s.frv.).
 
-[img](bread-board.jpg)
+[img](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/20220128_134757.jpg)
 
 # Tengil á myndband (t.d. youtube) af virkni frumgerðar (án lóðunar og hönnunar).
 
@@ -19,9 +19,9 @@ verkefnið var um að búa till spill sem hermir eftir spilið Simon Says. við 
 
 # Ljósmyndir af lóðun (báðar hliðar).7
 
-[img](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/ljos-lo%C3%B0.jpg)
-[img](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/takki-lo%C3%B01.jpg)
-[img](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/takki-lo%C3%B02.jpg)
+[img](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/20220204_145158.jpg)
+[img](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/20220204_145212.jpg)
+[img](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/20220204_145225.jpg)
 
 # Tengil á myndband af virkni (spilun) lokafurðar.
 
@@ -29,7 +29,7 @@ verkefnið var um að búa till spill sem hermir eftir spilið Simon Says. við 
 
 # Ljósmyndir af lokaafurð (inní kassa og utan)
 
-[img](kassi.jpg)
+[img](https://github.com/TTedy/VESM1VS05AU-H-t/blob/main/Myndir/20220208_103504.jpg)
 
 
 Þorvaldur Breki Lárruson
