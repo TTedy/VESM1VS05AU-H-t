@@ -1,5 +1,36 @@
 # VESM1VS05AU-H-t
-# Þorvaldur Breki Lárruson
-08/02/2022
 
 # Simon Says
+
+# Lýsing á verkefni.
+verkefnið var um að búa till spill sem hermir eftir spilið Simon Says. við gerðum það með þvi að hanna okkar egin kassa, lóða, og forrita arduino smá tölvuna.
+
+# Hönnunarteikning.
+
+[svg](kassa-honnun.svg)
+
+# Ljósmynd af samsetningu frumgerðar (brauðbretti, takkar, vírar o.s.frv.).
+
+[img](bread-board.jpg)
+
+# Tengil á myndband (t.d. youtube) af virkni frumgerðar (án lóðunar og hönnunar).
+
+[Myndband](https://youtu.be/R6cuo6xrrmc)
+
+# Ljósmyndir af lóðun (báðar hliðar).7
+
+[img](ljos-loð.jpg)
+[img](takki-loð1.jpg)
+[img](takki-loð2.jpg)
+
+# Tengil á myndband af virkni (spilun) lokafurðar.
+
+[Myndband](https://youtu.be/hJKxpcqZHyQ)
+
+# Ljósmyndir af lokaafurð (inní kassa og utan)
+
+[img](kassi.jpg)
+
+
+Þorvaldur Breki Lárruson
+08/02/2022
