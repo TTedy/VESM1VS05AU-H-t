@@ -35,3 +35,4 @@ verkefnið var um að búa till spill sem hermir eftir spilið Simon Says. við 
 
 Þorvaldur Breki Lárruson
 08/02/2022
+VESM1VS
